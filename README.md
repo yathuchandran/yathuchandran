@@ -16,6 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yathuz_yxk?igshid=ZDdkNTZiNTM=)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yatheesh-kumar-3a9359255) 
 [![Dev Community](https://img.shields.io/badge/Dev_Community-%2312100E.svg?logo=github&logoColor=white)](https://dev.to/yathuchandran)
+[![leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white)](https://leetcode.com/yathuz_/)
 
 
 # 💻 Tech Stack:
