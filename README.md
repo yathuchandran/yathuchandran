@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=yathuchandran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 working in BROTOTYPE<br><br>🌱 Currently learning MERN STACK<br><br>⚡ All of my projects are available at  https://yathuchandran.github.io/portfolio/<br><br>💬 Ask me about Javascript,Psql, Mongodb, ExpressJs, ReactJs, NodeJs, Java, C <br><br>📫 reach me yatheesh.bc8@gmail.com 
+🔭 working in BROTOTYPE<br><br>🌱 Currently learning MERN STACK<br><br>⚡ All of my projects are available at  https://yathuchandran.github.io/portfolio/<br><br>💬 Ask me about Mongodb,ExpressJs,ReactJs,NodeJs,Java,C,Psql,Javascript <br><br>📫 reach me yatheesh.bc8@gmail.com 
 
 
 ## 🌐 Socials:
