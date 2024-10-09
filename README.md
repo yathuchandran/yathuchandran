@@ -2,13 +2,13 @@
 [![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://yathuchandran.github.io/portfolio/)
 
 <h1 align="center">Hi 👋, I'm Yatheesh </h1>
-<h3 align="center">A passionate FullStack dev from India</h3>
+<h3 align="center">A passionate Frontend & full-stack dev from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 [![](https://visitcount.itsvg.in/api?id=yathuchandran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 working in BROTOTYPE<br><br>🌱 Currently learning MERN STACK<br><br>⚡ All of my projects are available at   http://yatheesh.online/<br><br>💬 Ask me about Mongodb,ExpressJs,ReactJs,NodeJs,Java,C,Psql,Javascript <br><br>📫 reach me yatheesh.bc8@gmail.com 
+🔭 working in BigWelt<br><br>🌱 Currently learning MERN STACK<br><br>⚡ All of my projects are available at   http://yatheesh.online/<br><br>💬 Ask me about Mongodb,ExpressJs,ReactJs,NodeJs,Java,C,Psql,Javascript <br><br>📫 reach me beingyathuz@gmail.com 
 
 
 ## 🌐 Socials:
